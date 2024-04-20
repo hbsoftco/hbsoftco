@@ -6,6 +6,26 @@
 
 <h3 align="center">A passionate full-stack web developer from Netherlands</h3>
 
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=hbsoftco&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com/?user=hbsoftco&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </thead>
+</table>
+
 <!--
 **hbsoftco/hbsoftco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
