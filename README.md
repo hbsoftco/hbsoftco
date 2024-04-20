@@ -12,7 +12,7 @@
 * Passionate about innovation and committed to staying updated with the latest industry trends
 * Thrives in dynamic environments, collaborating with talented teams to create impactful software solutions
 
-<br>
+
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
