@@ -5,6 +5,7 @@
 </h1>
 
 <!-- <h3>A passionate full-stack web developer from Netherlands</h3> -->
+# About Me
 
 - 7+ years of hands-on experience in software engineering, specializing in both front-end and back-end development
 - Proven track record of delivering successful projects using a diverse range of technologies, including Express.js, NestJS, Angular, Vue.js, and Nuxt.js
