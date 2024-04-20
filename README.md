@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hossein+Bajan!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack web developer from Netherlands</h3>
+<h3>A passionate full-stack web developer from Netherlands</h3>
 
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
