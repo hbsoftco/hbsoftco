@@ -22,12 +22,12 @@
           alt="GitHub Stats"
         />
       </td>
-      <td style="padding: 0; border: none;">
+<!--       <td style="padding: 0; border: none;">
         <img
           src="https://streak-stats.demolab.com/?user=hbsoftco&theme=tokyonight"
           alt="GitHub Stats"
         />
-      </td>
+      </td> -->
       </tr>
   </thead>
 </table>
